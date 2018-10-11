@@ -1,0 +1,4 @@
+*.pyc
+__pycache__
+DataScience_venv
+.DS_Store
