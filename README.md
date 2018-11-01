@@ -13,7 +13,7 @@ You can find the complete list of packages I have on the virtualenv that I use f
 
 ## What can you find in this repo?
 So, this is the list of files that you'll find in this repository:
-* [Basics on Numpy](Basics on Numpy and Linear Algebra.ipynb): Usefull functions on Numpy and some basics on linear algebra. You can see this notebook as a Cheat Sheet.
+* [Basics on Numpy](LICENSE.txt): Usefull functions on Numpy and some basics on linear algebra. You can see this notebook as a Cheat Sheet.
 
 ## Author
 * **Jorge Viera** - [vierageorge](https://github.com/Vierageorge)
