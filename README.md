@@ -12,7 +12,8 @@ If you chose to run these iPython Notebooks on your local machine, besides insta
 You can find the complete list of packages I have on the virtualenv that I use for this repo on the [requirements.txt](requirements.txt) file. If you want to replicate this on your machine just `pip install -r requirements.txt` it.
 
 ## What can you find in this repo?
-Ipsum Loren and the rest of the paragraph.
+So, this is the list of files that you'll find in this repository:
+* [Basics on Numpy](Basics on Numpy and Linear Algebra.ipynb): Usefull functions on Numpy and some basics on linear algebra. You can see this notebook as a Cheat Sheet.
 
 ## Author
 * **Jorge Viera** - [vierageorge](https://github.com/Vierageorge)
