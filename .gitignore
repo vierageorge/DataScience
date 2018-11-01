@@ -2,3 +2,6 @@
 __pycache__
 DataScience_venv
 .DS_Store
+.ipynb_checkpoints
+Data
+Linear_Regression_One_Variable.ipynb
