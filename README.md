@@ -12,12 +12,13 @@ If you chose to run these iPython Notebooks on your local machine, besides insta
 * Matplotlib. `pip install matplotlib`. More info [here](https://matplotlib.org/users/installing.html).
 * Scikit-Learn. `pip install sklearn`. More info [here](https://scikit-learn.org/stable/install.html).
 
-You can find the complete list of packages I have on the virtualenv that I use for this repo on the [requirements.txt](requirements.txt) file. If you want to replicate this on your machine just `pip install -r requirements.txt` it.
+You can find the complete list of packages I use on my virtualenv for this repo on the [requirements.txt](requirements.txt) file. If you want to replicate this on your machine just `pip install -r requirements.txt` it.
 
 ## What can you find in this repo?
 So, this is the list of files that you'll find in this repository:
-* [Basics on Numpy](Basics%20on%20Numpy%20and%20Linear%20Algebra.ipynb): Useful functions on Numpy and some basics on linear algebra. You can see this notebook as a Cheat Sheet.
-* [Basic End to End Machine Learning Project](): A simple example of a complete machine learning project. Based on [Aurelien Geron's](ageron) "Hands-On Machine Learning with Scikit-Learn & TensorFlow". Great book, by the way. You can find it [here](http://shop.oreilly.com/product/0636920052289.do).
+* [Basics on Numpy](EN/Basics%20on%20Numpy%20and%20Linear%20Algebra.ipynb): Useful functions on Numpy and some basics on linear algebra. You can see this notebook as a Cheat Sheet.
+* [Basic End to End Machine Learning Project](EN/Basic%20End%20to%20End%20Machine%20Learning%20Project.ipynb):
+A simple example of a complete machine learning project. Based on [Aurelien Geron's](ageron) "Hands-On Machine Learning with Scikit-Learn & TensorFlow". Great book, by the way. You can find it [here](http://shop.oreilly.com/product/0636920052289.do).
 
 ## Author
 * **Jorge Viera** - [vierageorge](https://github.com/Vierageorge)
